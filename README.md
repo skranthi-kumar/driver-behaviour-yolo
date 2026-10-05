@@ -6,7 +6,6 @@ and ships with a small Flask demo for single-image inference.
 
 Built as the perception prototype behind [Drivos](https://drivos.in), an AI driver-safety project for Indian fleets.
 
-![demo](demo/demo.gif)
 
 ## What it does
 - Detects the driver's state per frame: awake, drowsy, using a phone, seatbelt visible.
