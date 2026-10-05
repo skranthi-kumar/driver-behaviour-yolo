@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+runs/
+*.mp4
+*.jpg
+!demo/*.jpg
+.DS_Store
